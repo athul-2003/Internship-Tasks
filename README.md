@@ -2,6 +2,8 @@
 
 ## Week 1 :
 
+GitHub File Previewer : https://web-file-previewer-easily.lovable.app/
+
 - [x] HTML 
 - [x] CSS
 - [ ] JavaScript
