@@ -2,7 +2,8 @@
 
 ## Week 1 :
 
-GitHub File Previewer : https://web-file-previewer-easily.lovable.app/
+<a href="https://web-file-previewer-easily.lovable.app/" target="_blank">GitHub File Previewer</a>
+
 
 - [x] HTML 
 - [x] CSS
