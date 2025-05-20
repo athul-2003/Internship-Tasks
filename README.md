@@ -2,7 +2,8 @@
 
 ## Week 1 :
 
-<a href="https://web-file-previewer-easily.lovable.app/" target="_blank">GitHub File Previewer</a>
+[![Open GitHub File Previewer](https://img.shields.io/badge/Open-File%20Previewer-blue?style=for-the-badge&logo=github)](https://web-file-previewer-easily.lovable.app/)
+
 
 
 - [x] HTML 
