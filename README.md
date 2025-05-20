@@ -3,7 +3,7 @@
 ## Week 1 :
 
 - [x] HTML 
-- [ ] CSS
+- [x] CSS
 - [ ] JavaScript
 - [ ] BootStrap
 - [ ] jQuery
