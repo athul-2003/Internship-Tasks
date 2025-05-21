@@ -11,7 +11,7 @@
 - [x] HTML 
 - [x] CSS
 - [ ] JavaScript
-- [ ] BootStrap
+- [x] BootStrap
 - [ ] jQuery
 
 ## Week 2 :
