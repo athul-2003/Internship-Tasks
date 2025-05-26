@@ -10,7 +10,7 @@
 
 - [x] HTML 
 - [x] CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [x] BootStrap
 - [ ] jQuery
 
