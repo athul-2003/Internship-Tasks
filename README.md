@@ -18,4 +18,4 @@
 
 - [ ] Django
 - [ ] SQL
-- [ ] Python
+- [x] Python
